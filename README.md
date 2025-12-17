@@ -1,16 +1,16 @@
-## bsmithcs
+# bsmithcs
 
 Coding is Fun Sometimes
 
 ## Skills
 
-# 🤖 Embedded
+### 🤖 Embedded
 C, C++, STM32, FPGA (VHDL, Vivado)
 
-# 🌐 Web
+### 🌐 Web
 HTML, CSS, JavaScript, TypeScript
 
-# ⋯ Misc
+### ⋯ Misc
 Python, Lua
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
