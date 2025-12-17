@@ -13,4 +13,4 @@ HTML, CSS, JavaScript, TypeScript
 ### ⋯ Misc
 Python, Lua
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bsmithcs&show_icons=true&theme=transparent&hide=stars,prs,issues)
