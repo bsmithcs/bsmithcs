@@ -4,11 +4,11 @@ Coding is Fun Sometimes
 
 ## Skills
 
-### 🤖 Embedded
+### Embedded
 C, C++, STM32, FPGA (VHDL, Vivado)
 
-### 🌐 Web
+### Web
 HTML, CSS, JavaScript, TypeScript
 
-### ⋯ Misc
+### Misc
 Python, Lua
